@@ -37,6 +37,7 @@ Android Emulator ou dispositivo real
 
 
 # 📁 Estrutura do Projeto
+
 pratica_mobile/
 ├── pom.xml
 ├── README.md
